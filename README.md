@@ -1,7 +1,6 @@
 ### CHANGE BOT BANNER 
 > javascript, node.js & discord.js
 ```js
-        const fs = require('node:fs');
         const { REST } = require("@discordjs/rest");
         const { Routes } = require("discord-api-types/v9");
         const { DataResolver } = require("discord.js");
