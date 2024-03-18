@@ -1,4 +1,4 @@
-### BOT BANNER - DISCORD
+### CHANGE BOT BANNER 
 > javascript, node.js & discord.js
 ```js
         const fs = require('node:fs');
@@ -20,3 +20,5 @@
 For more information join the server [Discord Developers (DDevs)](https://discord.com/invite/discord-developers)
 
 ![image](https://github.com/ravenastar-js/shortlinks-scams/assets/31909648/44c7a375-dc2e-48cc-af41-0549e3914e64)
+
+> change the bot banner via the Discord API 
