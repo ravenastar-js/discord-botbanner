@@ -10,7 +10,7 @@
 
         try {
             await rest.patch(Routes.user(), {
-                body: { banner: await DataResolver.resolveImage("CAMINHO DO ARQUIVO OU LINK DO BANNER") },
+                body: { banner: await DataResolver.resolveImage("FILE PATH OR BANNER LINK") },
             });
             console.log("Banner updated successfully!!!")
         } catch (err) {
